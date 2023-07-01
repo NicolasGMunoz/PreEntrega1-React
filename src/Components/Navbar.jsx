@@ -6,9 +6,9 @@ import './Navbar.css'
 const Navbar = () => {
     return (<>
 
-<AppBar position='static' className='bc'>
+<AppBar position='static'>
 
-<Toolbar>
+<Toolbar className='bc'>
     <img className='imagen' src={nimutech} alt="" />
     <div className='buricho'>
         <Button className='botones'>PRODUCTOS</Button>
