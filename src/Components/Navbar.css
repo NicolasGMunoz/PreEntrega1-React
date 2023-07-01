@@ -1,0 +1,35 @@
+body{
+    background-color: #210436;
+}
+
+.bc{
+    background-color: #201C35;
+}
+
+.imagen{
+    margin-right: 500px;
+}
+
+
+.buricho{
+    align-items: center;
+    width: 600px;
+}
+
+.botones{
+    color: white;
+    border: solid gray 1px;
+    margin: 8%;
+}
+
+.carrito{
+   position: absolute;
+   right: 0;
+   margin-right: 40px;
+}
+
+.carritoNumber{
+    position: absolute;
+    right: 0;
+    margin-right: 20px;
+}
